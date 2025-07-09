@@ -1,6 +1,6 @@
 # 📝 Beautiful To-Do List Web App
 
-A creative and interactive To-Do List built using *HTML, **CSS, and **JavaScript*. It allows users to add, complete, delete, and filter tasks — all within a clean, responsive, and beautifully designed interface.
+A creative and interactive To-Do List built using **HTML**, **CSS**, and **JavaScript**. It allows users to add, complete, delete, and filter tasks — all within a clean, responsive, and beautifully designed interface.
 
 ---
 
