@@ -20,7 +20,6 @@ A creative and interactive To-Do List built using *HTML, **CSS, and **JavaScript
 
 ![To-Do List Screenshot](./IMG-20250709-WA0014.jpg)
 
-> Update this image with your own screenshot and filename.
 
 ---
 
